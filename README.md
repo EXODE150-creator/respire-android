@@ -3,7 +3,7 @@
 Respire est une application gratuite pour suivre ton sommeil et avancer face au
 tabac, au cannabis ou à l'alcool : journal, SOS envie, repères personnels.
 
-Site : https://exode-respire.netlify.app
+Site : https://exode-media.com/respire/
 
 Ce dépôt sert seulement à distribuer le fichier d'installation (APK). Le code
 source de l'application n'y est pas.
@@ -13,6 +13,9 @@ source de l'application n'y est pas.
 **[Télécharger Respire (dernière version)](https://github.com/EXODE150-creator/respire-android/releases/latest/download/Respire.apk)**
 
 Toutes les versions et leurs nouveautés : [Releases](https://github.com/EXODE150-creator/respire-android/releases).
+
+Guide d'installation pas à pas (Android et iPhone) :
+https://exode-media.com/respire/telecharger/
 
 ## Installer
 
@@ -52,4 +55,4 @@ Pour parler à quelqu'un :
 - Drogues info service : 0 800 23 13 13
 - En cas d'urgence : 15 ou 112
 
-Confidentialité : https://exode-respire.netlify.app/confidentialite.html
+Confidentialité : https://exode-media.com/respire/confidentialite/
